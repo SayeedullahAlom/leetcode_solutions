@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
