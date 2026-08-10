@@ -23,6 +23,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## DP on Trees
 |  |
@@ -35,4 +36,12 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
