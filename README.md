@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -17,4 +19,13 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
