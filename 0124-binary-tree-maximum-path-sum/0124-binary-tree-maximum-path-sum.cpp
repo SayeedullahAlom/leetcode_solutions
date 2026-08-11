@@ -16,12 +16,12 @@ public:
             return 0;
         }
 
-        int left=max(0,f(root->left,maxi));
-        int right=max(0,f(root->right,maxi));
+        int left=f(root->left,maxi);
+        int right=f(root->right,maxi);
 
         maxi=max(maxi,root->val+left+right);
 
-        return root->val + max(left,right);
+        return max(0,root->val + max(left,right));
     }
 
     int maxPathSum(TreeNode* root) {
