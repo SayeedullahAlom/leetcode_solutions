@@ -47,6 +47,7 @@
 | [0134-gas-station](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0274-h-index) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -64,4 +65,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
