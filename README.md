@@ -82,4 +82,9 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
