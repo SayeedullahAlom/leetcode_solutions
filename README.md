@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0274-h-index) |
@@ -56,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
@@ -68,9 +70,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
