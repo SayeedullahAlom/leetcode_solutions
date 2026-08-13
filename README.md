@@ -28,6 +28,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0494-target-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0494-target-sum) |
 ## DP on Trees
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0135-candy](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0274-h-index) |
+| [0494-target-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0494-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Greedy
 |  |
@@ -87,4 +89,16 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
