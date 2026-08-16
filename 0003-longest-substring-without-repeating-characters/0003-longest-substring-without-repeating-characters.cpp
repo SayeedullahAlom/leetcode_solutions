@@ -9,13 +9,17 @@ public:
         int maxi = 0;
 
         while (r < n) {
-            if (m[s[r]] == 0) {
+            if (m.find(s[r]) == m.end() || m[s[r]] == 0) {
                 m[s[r]]++;
                 r++;
             }
             else {
                 maxi = max(maxi, r - l);
 
+                while (s[l] != s[r]) {
+                    m[s[l]]--;
+                    l++;
+                }
                 m[s[l]]--;
                 l++;
             }
