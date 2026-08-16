@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0134-gas-station) |
@@ -68,6 +69,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0274-h-index) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Backtracking
