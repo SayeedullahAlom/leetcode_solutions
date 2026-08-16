@@ -50,6 +50,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0134-gas-station) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -130,4 +132,8 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
