@@ -54,6 +54,7 @@
 | [0045-jump-game-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0134-gas-station) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0015-3sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0274-h-index) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Counting Sort
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
