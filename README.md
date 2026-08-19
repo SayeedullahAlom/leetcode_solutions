@@ -12,6 +12,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Dynamic Programming
 |  |
 | ------- |
