@@ -193,6 +193,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0048-rotate-image) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
 |  |
 | ------- |
