@@ -133,6 +133,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -144,6 +145,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -155,6 +157,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0763-partition-labels) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
@@ -164,6 +167,7 @@
 | [0015-3sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0763-partition-labels) |
 ## Backtracking
 |  |
