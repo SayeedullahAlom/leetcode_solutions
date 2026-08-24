@@ -93,6 +93,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0494-target-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0739-daily-temperatures](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Greedy
@@ -227,6 +228,7 @@
 | [0020-valid-parentheses](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -235,4 +237,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
