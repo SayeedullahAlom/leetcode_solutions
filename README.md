@@ -102,6 +102,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0494-target-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0494-target-sum) |
+| [0704-binary-search](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0846-hand-of-straights) |
@@ -204,6 +205,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
