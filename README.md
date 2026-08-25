@@ -106,6 +106,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0846-hand-of-straights) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
@@ -128,6 +129,7 @@
 | [0274-h-index](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0274-h-index) |
 | [0846-hand-of-straights](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Counting Sort
 |  |
 | ------- |
