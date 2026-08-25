@@ -87,6 +87,7 @@
 | [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -204,6 +205,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -214,6 +216,7 @@
 | [0036-valid-sudoku](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0289-game-of-life) |
 ## Math
 |  |
