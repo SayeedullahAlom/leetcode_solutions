@@ -107,6 +107,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0846-hand-of-straights) |
+| [0875-koko-eating-bananas](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -210,6 +211,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
