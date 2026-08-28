@@ -67,6 +67,7 @@
 | [0494-target-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1048-longest-string-chain](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1048-longest-string-chain) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## DP on Trees
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0846-hand-of-straights](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1048-longest-string-chain](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1048-longest-string-chain) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -129,6 +131,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0846-hand-of-straights) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -227,6 +230,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Matrix
 |  |
 | ------- |
