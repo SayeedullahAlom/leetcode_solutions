@@ -94,6 +94,7 @@
 | [0048-rotate-image](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
