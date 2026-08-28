@@ -59,6 +59,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -94,6 +95,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -150,6 +152,7 @@
 | [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0567-permutation-in-string) |
@@ -177,6 +180,7 @@
 | [0006-zigzag-conversion](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -271,4 +275,16 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
