@@ -68,6 +68,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1048-longest-string-chain](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## DP on Trees
 |  |
@@ -121,6 +122,7 @@
 | [0846-hand-of-straights](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1048-longest-string-chain](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -148,6 +150,7 @@
 | [0846-hand-of-straights](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Counting Sort
 |  |
