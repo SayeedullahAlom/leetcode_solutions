@@ -1,48 +1,21 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-        vector<pair<char,int>> v;
-        vector<int> star;
-        
+        stack<int> open,star;
         for(int i=0;i<s.size();i++){
-            int size=v.size();
-            if(s[i]=='*'){
-                star.push_back(i);
-            }
-            else if(s[i]==')' && !v.empty() && v.back().first=='('){
-                v.pop_back();
-            }
+            if(s[i]=='(') open.push(i);
+            else if(s[i]=='*') star.push(i);
             else{
-                v.push_back({s[i],i});
+                if(!open.empty()) open.pop();
+                else if(!star.empty()) star.pop();
+                else return false;
             }
         }
-
-        for(int i=0;i<v.size();i++){
-            if(v[i].first==')'){
-                for(int j=0;j<star.size();j++){
-                    if(star[j]<v[i].second){
-                        v[i].first='a';
-                        star[j]=1e9;
-                        
-                        break;
-                    }   
-                }
-            }
-            if(v[i].first=='('){
-                for(int j=0;j<star.size();j++){
-                    if(star[j]>v[i].second && star[j]!=1e9){
-                        star[j]=1e9;
-                        v[i].first='a';
-                        break;
-                    }   
-                }
-            }
+        while(!open.empty()&&!star.empty()){
+            if(open.top()>star.top()) return false;
+            open.pop();
+            star.pop();
         }
-
-        for(int i=0;i<v.size();i++){
-            if(v[i].first!='a')  return false;
-        }
-
-        return true;
+        return open.empty();
     }
 };
