@@ -72,6 +72,7 @@
 | [1048-longest-string-chain](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## DP on Trees
 |  |
 | ------- |
@@ -259,6 +260,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0368-largest-divisible-subset](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0368-largest-divisible-subset) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Simulation
 |  |
 | ------- |
