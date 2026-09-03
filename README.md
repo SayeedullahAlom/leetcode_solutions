@@ -83,6 +83,7 @@
 | [0550-game-play-analysis-iv](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0550-game-play-analysis-iv) |
 | [0577-employee-bonus](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0584-find-customer-referee) |
+| [1164-product-price-at-a-given-date](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
