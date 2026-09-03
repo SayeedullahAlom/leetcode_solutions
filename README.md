@@ -132,6 +132,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -263,6 +264,7 @@
 | [0368-largest-divisible-subset](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0368-largest-divisible-subset) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
 | ------- |
