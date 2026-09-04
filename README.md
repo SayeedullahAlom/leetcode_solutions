@@ -136,6 +136,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [3903-smallest-stable-index-i](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
