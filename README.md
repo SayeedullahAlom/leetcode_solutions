@@ -102,6 +102,7 @@
 | [0039-combination-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0056-merge-intervals) |
@@ -241,6 +242,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
