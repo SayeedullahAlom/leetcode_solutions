@@ -1,27 +1,25 @@
 class Solution {
 public:
-    void f(int i,int n,int k,vector<int> &ds,vector<vector<int>> &ans){
-        if(ds.size()==k){
+    void f(int start, int n, int k, vector<int>& ds,
+           vector<vector<int>>& ans) {
+
+        if (ds.size() == k) {
             ans.push_back(ds);
             return;
         }
 
-        if(i>n) return;
-   
-        ds.push_back(i);
-        f(i+1,n,k,ds,ans);
-        ds.pop_back();
-        f(i+1,n,k,ds,ans);
-
-        return ;
+        for (int i = start; i <= n; i++) {
+            ds.push_back(i);
+            f(i + 1, n, k, ds, ans);
+            ds.pop_back();
+        }
     }
 
     vector<vector<int>> combine(int n, int k) {
-        vector<int> ds;
         vector<vector<int>> ans;
+        vector<int> ds;
 
-        f(1,n,k,ds,ans);
-
+        f(1, n, k, ds, ans);
         return ans;
     }
 };
