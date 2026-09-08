@@ -60,6 +60,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -225,6 +226,7 @@
 | [0020-valid-parentheses](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0290-word-pattern) |
@@ -253,6 +255,7 @@
 | [0046-permutations](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0077-combinations) |
+| [0131-palindrome-partitioning](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
