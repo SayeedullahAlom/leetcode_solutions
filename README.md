@@ -101,6 +101,7 @@
 | [0015-3sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0045-jump-game-ii) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -243,6 +245,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0046-permutations) |
@@ -272,6 +275,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
@@ -360,5 +364,10 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
