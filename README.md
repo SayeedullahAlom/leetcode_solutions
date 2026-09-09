@@ -94,6 +94,7 @@
 | [1174-immediate-food-delivery-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1484-group-sold-products-by-the-date) |
