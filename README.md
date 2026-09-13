@@ -109,6 +109,7 @@
 | [1667-fix-names-in-a-table](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1667-fix-names-in-a-table) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1907-count-salary-categories) |
+| [3220-odd-and-even-transactions](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3220-odd-and-even-transactions) |
 ## Array
 |  |
 | ------- |
