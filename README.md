@@ -107,6 +107,7 @@
 | [1527-patients-with-a-condition](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1667-fix-names-in-a-table) |
+| [1693-daily-leads-and-partners](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1907-count-salary-categories) |
 | [3220-odd-and-even-transactions](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3220-odd-and-even-transactions) |
