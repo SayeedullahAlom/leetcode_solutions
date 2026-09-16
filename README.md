@@ -181,6 +181,7 @@
 | [0763-partition-labels](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1927-sum-game](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1927-sum-game) |
 ## Sorting
 |  |
 | ------- |
@@ -254,6 +255,7 @@
 | [0678-valid-parenthesis-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0763-partition-labels) |
 | [1048-longest-string-chain](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1048-longest-string-chain) |
+| [1927-sum-game](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
@@ -312,6 +314,7 @@
 | [0368-largest-divisible-subset](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1927-sum-game](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3870-count-commas-in-range) |
@@ -421,4 +424,8 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0371-sum-of-two-integers) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
