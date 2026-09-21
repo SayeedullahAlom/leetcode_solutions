@@ -258,6 +258,7 @@
 | [1048-longest-string-chain](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1927-sum-game](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -326,6 +327,7 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0289-game-of-life) |
+| [3498-reverse-degree-of-a-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
