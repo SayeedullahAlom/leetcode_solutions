@@ -166,6 +166,7 @@
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -319,6 +320,7 @@
 | [0371-sum-of-two-integers](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1927-sum-game](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1927-sum-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3870-count-commas-in-range) |
