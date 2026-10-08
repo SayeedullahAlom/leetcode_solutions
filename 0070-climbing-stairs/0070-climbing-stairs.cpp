@@ -11,7 +11,20 @@ public:
         return dp[n]=one_step+two_step;
     }
     int climbStairs(int n) {
-        vector<int> dp(n+1,-1);
-        return f(n,dp);
+        // vector<int> dp(n+1,-1);
+        // return f(n,dp);
+        if(n==1 || n==2) return n;
+
+        int prev=2;
+        int p_prev=1;
+
+        for(int i=3;i<=n;i++){
+            int curr=prev+p_prev;
+            p_prev=prev;
+            prev=curr;
+        }
+
+        return prev;
+ 
     }
 };
