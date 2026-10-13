@@ -171,6 +171,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
@@ -189,6 +190,7 @@
 | [0846-hand-of-straights](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1927-sum-game](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1927-sum-game) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [1048-longest-string-chain](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
