@@ -152,6 +152,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0209-minimum-size-subarray-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
@@ -203,6 +204,7 @@
 | [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0368-largest-divisible-subset) |
 | [0846-hand-of-straights](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0846-hand-of-straights) |
@@ -215,6 +217,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0274-h-index) |
 ## Prefix Sum
 |  |
@@ -233,6 +236,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0567-permutation-in-string) |
@@ -429,6 +433,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0169-majority-element) |
 | [0973-k-closest-points-to-origin](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -454,4 +459,8 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1927-sum-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
