@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -138,6 +139,7 @@
 | [0048-rotate-image](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
@@ -188,6 +190,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0135-candy) |
