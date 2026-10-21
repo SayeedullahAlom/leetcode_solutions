@@ -174,6 +174,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -239,6 +240,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -254,6 +256,7 @@
 | [0169-majority-element](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0846-hand-of-straights) |
