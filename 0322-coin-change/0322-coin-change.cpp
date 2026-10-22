@@ -19,7 +19,7 @@ public:
     }
 
     int coinChange(vector<int>& coins, int amount) {
-        if(amount == 0) return 0;
+        // if(amount == 0) return 0;
         int n=coins.size();
 
         // vector<vector<int>> dp(n,vector<int>(amount+1,-1));
