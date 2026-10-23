@@ -20,7 +20,7 @@ public:
     }
 
     int change(int amount, vector<int>& coins) {
-        if(coins.empty()) return amount == 0 ? 1 : 0;
+    
         int n=coins.size();
 
         // vector<vector<int>> dp(n,vector<int>(amount+1,-1));
