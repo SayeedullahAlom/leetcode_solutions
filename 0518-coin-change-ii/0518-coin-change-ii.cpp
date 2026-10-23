@@ -20,10 +20,33 @@ public:
     }
 
     int change(int amount, vector<int>& coins) {
+        if(coins.empty()) return amount == 0 ? 1 : 0;
         int n=coins.size();
 
-        vector<vector<int>> dp(n,vector<int>(amount+1,-1));
+        // vector<vector<int>> dp(n,vector<int>(amount+1,-1));
 
-        return f(n-1,amount,coins,dp);
+        vector<vector<unsigned long long>> dp(n,vector<unsigned long long>(amount+1,0));
+
+        // return f(n-1,amount,coins,dp);
+
+        for(int i=0;i<=amount;i++){
+            if(i%coins[0]==0) dp[0][i]=1;
+        }
+
+        for(int i=1;i<n;i++){
+            for(int j=0;j<=amount;j++){
+
+                unsigned long long not_take=dp[i-1][j];
+                unsigned long long take=0;
+                if(j>=coins[i]){
+                    take=dp[i][j-coins[i]];
+                }
+
+                dp[i][j] = take+not_take;
+
+            }
+        }
+
+        return (int)dp[n-1][amount];
     }
 };
