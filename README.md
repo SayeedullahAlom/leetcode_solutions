@@ -39,6 +39,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0733-flood-fill) |
@@ -84,6 +85,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -188,6 +190,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0704-binary-search) |
@@ -371,6 +374,7 @@
 | [0074-search-a-2d-matrix](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0289-game-of-life) |
+| [0542-01-matrix](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1463-cherry-pickup-ii) |
