@@ -30,6 +30,7 @@
 | [0733-flood-fill](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -47,6 +48,7 @@
 | [0733-flood-fill](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -207,6 +209,7 @@
 | [0875-koko-eating-bananas](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1020-number-of-enclaves](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1463-cherry-pickup-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -387,6 +390,7 @@
 | [0542-01-matrix](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0931-minimum-falling-path-sum) |
+| [1020-number-of-enclaves](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1463-cherry-pickup-ii](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1463-cherry-pickup-ii) |
 ## Math
 |  |
@@ -418,6 +422,7 @@
 | [0130-surrounded-regions](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/SayeedullahAlom/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 ## Quicksort
 |  |
 | ------- |
